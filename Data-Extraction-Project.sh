@@ -162,8 +162,6 @@ function DataExtraction() {
 	ReadableData
 	
 	sleep 1	
-# DEVELOPER NOTE ==> and here i make the kill <animation function> so the animation stops
-# <=== Adonis come on help me with that cool animation bro ===>
 }
 
 #this function is responsible to check for a potentional network traffic information 
@@ -300,7 +298,7 @@ function conclusion() {
 
 
 
-#Eithan's data extraction tool - EDE tool
+#Sago's data extraction tool - EDE tool
 
 # This while loop is responsible to call the tool instalation function
 while true
@@ -434,3 +432,4 @@ sleep 1.5
 conclusion
 
 echo -e "${GREEN}Project is done${NC}"
+
